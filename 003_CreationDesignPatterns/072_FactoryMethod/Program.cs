@@ -22,6 +22,16 @@ foreach (var c in cards)
     Console.WriteLine($"Type: {c.Type} | MinimumLimit: {c.MinimumLimit} | MaximumLimit: {c.MaximumLimit} | AnnualCharge: {c.AnnualCharge}");
 }
 
+
+
+
+
+
+
+
+
+
+
 public enum CardType
 {
     Gold,
